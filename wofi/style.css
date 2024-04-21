@@ -1,0 +1,26 @@
+* {
+	border-radius: 10px;
+	border: none;
+}
+
+window{
+	font-size: 18px;
+	background-color: #383961;
+	/* border-bottom: 3px solid white; */
+}
+
+#entry{
+	padding: 0.25em;
+}
+
+#entry:selected{
+	background-color: #871F78;
+	/*background-color: #008080;*/
+	/*background-color: #81cdc6;*/
+	/*color: #333333;*/
+}
+
+image{
+	margin-left: .25em;
+	margin-right: .25em;
+}
